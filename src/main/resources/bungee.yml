@@ -1,0 +1,4 @@
+name: Network
+version: '${project.version}'
+main: nl.kaine.network.Network
+description: Network plugin voor Kaine
